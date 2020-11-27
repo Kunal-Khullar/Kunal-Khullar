@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Kunal Khullar 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kunal-Khullar" alt="Kunal-Khullar" /> </p>
 
-<!--
-**Kunal-Khullar/Kunal-Khullar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on - MERN stack 
+- 🌱 I’m currently learning - React and Express
+- 👯 I’m looking to collaborate on - Node.js
 
-Here are some ideas to get you started:
+-[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Khullar&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://google.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Khullar&layout=compact)](https://google.com)
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/kunal-khullar-6387111a2/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
+<a href="https://www.instagram.com/kunalkhullar15/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
