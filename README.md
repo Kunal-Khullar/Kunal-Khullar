@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on - MERN stack 
 - 🌱 I’m currently learning - React and Express
-- 👯 I’m looking to collaborate on - Node.js
+- 👯 I’m looking to collaborate on -MERN stack
 
 -[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Khullar&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://google.com)
 
