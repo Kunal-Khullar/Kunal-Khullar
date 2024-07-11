@@ -1,9 +1,9 @@
 # Hi there, I'm Kunal Khullar 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kunal-Khullar" alt="Kunal-Khullar" /> </p>
 
-- 🔭 I’m currently working on - MERN stack 
-- 🌱 I’m currently learning - React and Express
-- 👯 I’m looking to collaborate on -MERN stack
+- 🔭 I’m currently working on - React JS and Next JS 
+- 🌱 I’m currently learning - Nest JS
+- 👯 I’m looking to collaborate on -React/Next JS stack
 
 -[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Khullar&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://google.com)
 
